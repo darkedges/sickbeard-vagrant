@@ -1,0 +1,39 @@
+{
+  "sources": {
+    "bluepill": {
+      "locked_version": "2.3.1"
+    },
+    "git": {
+      "locked_version": "2.9.0"
+    },
+    "sickbeard": {
+      "locked_version": "0.0.1",
+      "git": "git://github.com/jpennell/sickbeard-cookbook.git",
+      "ref": "1e2f51e967158965ea281dff74471381e1c3c811"
+    },
+    "rsyslog": {
+      "locked_version": "1.12.2"
+    },
+    "dmg": {
+      "locked_version": "2.1.2"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "windows": {
+      "locked_version": "1.12.8"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
+    },
+    "runit": {
+      "locked_version": "1.5.8"
+    },
+    "yum": {
+      "locked_version": "3.0.4"
+    },
+    "yum-epel": {
+      "locked_version": "0.2.0"
+    }
+  }
+}
